@@ -5,7 +5,7 @@ Items waiting on Justin's decision or attention for this organization. Agents ad
 ## Settings to change
 
 - [ ] Ruleset `default-branch-pr-required`: turn on "Dismiss stale pull request approvals when new commits are pushed." The readback on 2026-10-25 showed it off.
-- [ ] Same ruleset: turn on "Require review from Code Owners." `CODEOWNERS` merged in pull request #1, so rule 13 can now be enforced by the platform.
+- [ ] Same ruleset: turn on "Require review from Code Owners." `CODEOWNERS` merged in `.github` pull request #1, so rule 13 can be enforced there. A `CODEOWNERS` file covers only the repository it sits in ([GitHub documentation](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners)), so `foundation` and later repositories each need their own before this setting protects them.
 - [ ] Organization roles: assign the `agents` team the All-repository write role, or keep granting Write repository by repository. Today each new repository needs a manual grant.
 
 ## Decisions from issue #2
