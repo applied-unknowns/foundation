@@ -1,12 +1,21 @@
 # Open items
 
-Items waiting on Justin's decision or attention for this organization. Agents add; Justin closes by deleting the line in a pull request, with the outcome noted in the commit. Founding-brief decisions stay in the founding brief's open items list until the charter exists. The agent instructions for the whole organization are in [`.github/AGENTS.md`](https://github.com/applied-unknowns/.github/blob/main/AGENTS.md).
+Items waiting on Justin's decision or attention for this organization. Agents add; Justin closes by deleting the line in a pull request, with the outcome noted in the commit. Founding-brief decisions stay in the founding brief's open items list until Justin decides whether the briefs feed the charter (below). The agent instructions for the whole organization are in [`.github/AGENTS.md`](https://github.com/applied-unknowns/.github/blob/main/AGENTS.md).
 
 ## Settings to change
 
 - [ ] Ruleset `default-branch-pr-required`: turn on "Dismiss stale pull request approvals when new commits are pushed." The readback on 2026-10-25 showed it off.
 - [ ] Same ruleset: turn on "Require review from Code Owners." `CODEOWNERS` merged in pull request #1, so rule 13 can now be enforced by the platform.
 - [ ] Organization roles: assign the `agents` team the All-repository write role, or keep granting Write repository by repository. Today each new repository needs a manual grant.
+
+## Decisions from issue #2
+
+Justin approved the ten invariants, tasks FND-01 to FND-04, and Claude Opus 5.5 with ChatGPT 6 as the first cross-model test pair on [#2](https://github.com/applied-unknowns/foundation/issues/2), 2026-10-27. These are still open:
+
+- [ ] Ratify or revise the end-to-end acceptance scenario in #2. FND-01 writes its pass criteria either way.
+- [ ] Whether the three founding briefs become source material for the charter (FND-01). Both agents recommend yes.
+- [ ] A research effort and spending ceiling, needed before M1's research packets are dispatched.
+- [ ] The collaborative proposal resolution rule from #2: ChatGPT drafts it for `.github/AGENTS.md`, Claude reviews, Justin carries it; or Justin declines it.
 
 ## Decisions
 
