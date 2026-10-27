@@ -10,15 +10,15 @@ Items waiting on Justin's decision or attention for this organization. Agents ad
 
 ## Decisions from issue #2
 
-Justin approved the ten invariants, tasks FND-01 to FND-04, and Claude Opus 5.5 with ChatGPT 6 as the first cross-model test pair on [#2](https://github.com/applied-unknowns/foundation/issues/2), 2026-10-27. These are still open:
+Justin approved the ten invariants, tasks FND-01 to FND-04, and Claude Opus 5.5 with ChatGPT 6 as the first cross-model test pair on [#2](https://github.com/applied-unknowns/foundation/issues/2), 2026-10-27. Justin's statement in a Claude session, 2026-10-27 ([recorded on #2](https://github.com/applied-unknowns/foundation/issues/2#issuecomment-6432475501)): "I support the scenario in the charter," meaning the acceptance scenario in `CHARTER.md` section 4. These are still open:
 
-- [ ] Ratify or revise the end-to-end acceptance scenario in #2. FND-01 writes its pass criteria either way.
+- [ ] The acceptance scenario details `CHARTER.md` section 4 reserves for separate approval: test corpus size, cost ceiling, severity definitions, and final pass thresholds.
 - [ ] Whether the three founding briefs become source material for the charter (FND-01). Both agents recommend yes.
 - [ ] A research effort and spending ceiling, needed before M1's research packets are dispatched.
 - [ ] Whether the foundation must be complete before the first product work starts, or both may run in parallel. Raised in Claude's review on #2 (point 7); the proposed charter in #11 also lists it.
 - [ ] Final wording of the organization's purpose, and how the foundation relates to broader product work. Listed as open in the proposed charter in #11.
 - [ ] Whether agents keep working in personal repositories as `jhilliardx`, or get their own accounts added there so personal-repository authorship can be trusted. `BOUNDARIES.md` (FND-03) works either way.
-- [ ] The collaborative proposal resolution rule from #2: ChatGPT drafts it for `.github/AGENTS.md`, Claude reviews, Justin carries it; or Justin declines it.
+- [ ] The collaborative proposal resolution rule from #2: in progress. Justin asked ChatGPT to draft it ([#16](https://github.com/applied-unknowns/foundation/issues/16)); Claude reviews, and Justin carries it into `.github/AGENTS.md` or declines it.
 
 ## Decisions
 
