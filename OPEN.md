@@ -17,6 +17,7 @@ Justin approved the ten invariants, tasks FND-01 to FND-04, and Claude Opus 5.5 
 - [ ] A research effort and spending ceiling, needed before M1's research packets are dispatched.
 - [ ] Whether the foundation must be complete before the first product work starts, or both may run in parallel. Raised in Claude's review on #2 (point 7); the proposed charter in #11 also lists it.
 - [ ] Final wording of the organization's purpose, and how the foundation relates to broader product work. Listed as open in the proposed charter in #11.
+- [ ] Whether agents keep working in personal repositories as `jhilliardx`, or get their own accounts added there so personal-repository authorship can be trusted. `BOUNDARIES.md` (FND-03) works either way.
 - [ ] The collaborative proposal resolution rule from #2: ChatGPT drafts it for `.github/AGENTS.md`, Claude reviews, Justin carries it; or Justin declines it.
 
 ## Decisions
