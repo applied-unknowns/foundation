@@ -11,5 +11,6 @@ The working record of Applied Unknowns.
 | [`AGENTS.md`](AGENTS.md) | Rules for agents working in this repository |
 | [`CHARTER.md`](CHARTER.md) | The foundation charter: purpose, the ten approved invariants, and the first acceptance scenario (Proposed) |
 | [`BOUNDARIES.md`](BOUNDARIES.md) | What belongs in the organization, and how work is brought in from personal repositories (Proposed) |
+| [`PERMISSIONS.md`](PERMISSIONS.md) | Who can do what, where policy and GitHub's actual enforcement differ, and how to test it (Proposed) |
 
 How the organization works, and how to take part, is in [`.github`](https://github.com/applied-unknowns/.github).
