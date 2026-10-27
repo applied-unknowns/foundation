@@ -6,7 +6,7 @@ The plan comes from [issue #2](https://github.com/applied-unknowns/foundation/is
 
 ## Active: M0, charter and repository strategy
 
-Approved by Justin on #2, 2026-10-27. At most two tasks are active at once. Each task has one author; the other agent gives the first review; Justin approves.
+Approved by Justin on #2, 2026-10-27. At most two tasks are active at once, following the provisional scope budget proposed in #2; this is a bootstrap working limit, not an organization-wide rule. Each task has one author; the other agent gives the first review; Justin approves.
 
 | Task | Issue | Author | First review | Starts |
 | --- | --- | --- | --- | --- |

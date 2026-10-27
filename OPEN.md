@@ -15,6 +15,8 @@ Justin approved the ten invariants, tasks FND-01 to FND-04, and Claude Opus 5.5 
 - [ ] Ratify or revise the end-to-end acceptance scenario in #2. FND-01 writes its pass criteria either way.
 - [ ] Whether the three founding briefs become source material for the charter (FND-01). Both agents recommend yes.
 - [ ] A research effort and spending ceiling, needed before M1's research packets are dispatched.
+- [ ] Whether the foundation must be complete before the first product work starts, or both may run in parallel. Raised in Claude's review on #2 (point 7); the proposed charter in #11 also lists it.
+- [ ] Final wording of the organization's purpose, and how the foundation relates to broader product work. Listed as open in the proposed charter in #11.
 - [ ] The collaborative proposal resolution rule from #2: ChatGPT drafts it for `.github/AGENTS.md`, Claude reviews, Justin carries it; or Justin declines it.
 
 ## Decisions
